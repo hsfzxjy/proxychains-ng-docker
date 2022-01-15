@@ -1,2 +1,3 @@
 # proxychains-ng-docker
-Standalone docker images for proxychains-ng.
+
+Pre-compiled `proxychains4` binaries for various operating systems.
